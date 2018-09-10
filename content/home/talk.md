@@ -10,6 +10,8 @@ weight = 60
 
 # Selected Talks
 
+* July 2018: Delivering efficiencies in health care and manufacturing, Indian Institute of Science, Bangalore, India
+
 * April 2018: Accelerating Experimental Design, Intelligent Polymer Research Institute, University of Wollongong, Australia
 
 * March 2018: Detecting Rare Events, Collaborative Deans' Lecture, Melbourne School of Engineering, Melbourne, Australia
