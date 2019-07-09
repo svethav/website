@@ -10,11 +10,21 @@ weight = 60
 
 # Selected Talks
 
+* July 2019: AI in Health – Exploring the opportunities and challenges, Discussion at Australian Academy of Health and Medical Sciences roundtable on AI in Health, Melbourne, Australia
+
+* May 2019: Delivering Efficiencies through Machine Learning and AI, Defence AI Coordination Centre, Canberra, Australia
+
+* May 2019: Human-Machine Cooperative AI System, Pivot Summit -Deakin Costa Hall, Geelong, Australia
+
+* Oct 2018: Accelerating Experimental Design through “Artificial research assistant”, ignite+Deakin event in conjunction with the Victorian Chamber of Commerce, Geelong, Australia
+
 * July 2018: Delivering efficiencies in health care and manufacturing, Indian Institute of Science, Bangalore, India
 
 * April 2018: Accelerating Experimental Design, Intelligent Polymer Research Institute, University of Wollongong, Australia
 
 * March 2018: Detecting Rare Events, Collaborative Deans' Lecture, Melbourne School of Engineering, Melbourne, Australia
+
+* March 2018: CEDA panel event/discussion on innovation and translating Australia’s leading research, Melbourne, Australia
 
 * Feb 2018: [Delivering Efficiencies in Health Care and Manufacturing](http://icb2018.org/keynote/), The 11th IAPR International Conference on Biometrics (ICB 2018), Gold Coast, Australia
 
