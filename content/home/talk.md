@@ -10,6 +10,8 @@ weight = 60
 
 # Selected Talks
 
+* Sep 2019: Delivering Efficiencies through Machine Learning and AI, Copenhagen Center for Healthcare Technology, Denmark
+
 * July 2019: AI in Health – Exploring the opportunities and challenges, Discussion at Australian Academy of Health and Medical Sciences roundtable on AI in Health, Melbourne, Australia
 
 * May 2019: Delivering Efficiencies through Machine Learning and AI, Defence AI Coordination Centre, Canberra, Australia
