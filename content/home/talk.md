@@ -10,6 +10,10 @@ weight = 60
 
 # Selected Talks
 
+* Dec 2019: Delivering Efficiencies in Health Care and Manufacturing through Machine Learning, Cloudera Government Forum, Canberra, Australia
+
+* Dec 2019: Bayesian Optimisation and Design of Experiments, 4th Modelling Complex Warfighting Symposium, Australian National University, Canberra, Australia
+
 * Oct 2019: Delivering Efficiencies through Machine Learning and AI, 2019 eResearch Australasia Conference, Brisbane, Australia
 
 * Sep 2019: Delivering Efficiencies through Machine Learning and AI, Copenhagen Center for Healthcare Technology, Denmark
