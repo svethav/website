@@ -10,6 +10,8 @@ weight = 60
 
 # Selected Talks
 
+* Mar 2021: Future Trends in Artificial Intelligence, Pattern Recognition and Machine Learning, Information Technology Industry Forum, Virtual via Zoom, Australia
+
 * Feb 2020: Delivering Efficiencies through Machine Learning and AI, The Harvard Business Women’s Retreat, Geelong, Australia
 
 * Dec 2019: Delivering Efficiencies in Health Care and Manufacturing through Machine Learning, Cloudera Government Forum, Canberra, Australia
@@ -20,7 +22,7 @@ weight = 60
 
 * Sep 2019: Delivering Efficiencies through Machine Learning and AI, Copenhagen Center for Healthcare Technology, Denmark
 
-* July 2019: AI in Health – Exploring the opportunities and challenges, Discussion at Australian Academy of Health and Medical Sciences roundtable on AI in Health, Melbourne, Australia
+* Jul 2019: AI in Health – Exploring the opportunities and challenges, Discussion at Australian Academy of Health and Medical Sciences roundtable on AI in Health, Melbourne, Australia
 
 * May 2019: Delivering Efficiencies through Machine Learning and AI, Defence AI Coordination Centre, Canberra, Australia
 
@@ -28,13 +30,13 @@ weight = 60
 
 * Oct 2018: Accelerating Experimental Design through “Artificial research assistant”, ignite+Deakin event in conjunction with the Victorian Chamber of Commerce, Geelong, Australia
 
-* July 2018: Delivering efficiencies in health care and manufacturing, Indian Institute of Science, Bangalore, India
+* Jul 2018: Delivering efficiencies in health care and manufacturing, Indian Institute of Science, Bangalore, India
 
-* April 2018: Accelerating Experimental Design, Intelligent Polymer Research Institute, University of Wollongong, Australia
+* Apr 2018: Accelerating Experimental Design, Intelligent Polymer Research Institute, University of Wollongong, Australia
 
-* March 2018: Detecting Rare Events, Collaborative Deans' Lecture, Melbourne School of Engineering, Melbourne, Australia
+* Mar 2018: Detecting Rare Events, Collaborative Deans' Lecture, Melbourne School of Engineering, Melbourne, Australia
 
-* March 2018: CEDA panel event/discussion on innovation and translating Australia’s leading research, Melbourne, Australia
+* Mar 2018: CEDA panel event/discussion on innovation and translating Australia’s leading research, Melbourne, Australia
 
 * Feb 2018: [Delivering Efficiencies in Health Care and Manufacturing](http://icb2018.org/keynote/), The 11th IAPR International Conference on Biometrics (ICB 2018), Gold Coast, Australia
 
@@ -48,9 +50,9 @@ weight = 60
 
 * Oct 2017: Detecting rare events, International Federation of Psychiatric Epidemiology Congress (IFPE2017), Melbourne, Australia
 
-* July 2016: [Machine Learning: Beyond Data](http://isbd2016.com/scientific-program/keynote-speakers#.WiS9h7T1UWo), 18th Annual Conference of the International Society for Bipolar Disorders (ISBD), Amsterdam, Netherlands
+* Jul 2016: [Machine Learning: Beyond Data](http://isbd2016.com/scientific-program/keynote-speakers#.WiS9h7T1UWo), 18th Annual Conference of the International Society for Bipolar Disorders (ISBD), Amsterdam, Netherlands
 
-* April 2016: Keynote, 20th Pacific Asia Conference on Knowledge Discovery and Data Mining PAKDD, New Zealand
+* Apr 2016: Keynote, 20th Pacific Asia Conference on Knowledge Discovery and Data Mining PAKDD, New Zealand
 
 * Oct 2015: [Dennis Moore Distinguished Oration] (https://www.acs.org.au/insightsandpublications/news-archive/2015/87444.html), Australian Computer Society, Perth, Australia
 
