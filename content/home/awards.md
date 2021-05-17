@@ -23,6 +23,6 @@ weight = 10
 * 2013: Geelong Researcher of the Year, Geelong Chamber of Commerce, Australia
 * 2013: [Excellence in International Education] (http://www.deakin.edu.au/research/story?story_id=2013/11/12/toby-playpad-engaged) – Research Engagement , Victorian International Education Awards
 * 2012 & 2013: Smart Technology Award, Geelong Chamber of Commerce - for Toby Playpad and identifying suicidal patients via machine learning
-* 2011: WA Inventor of the Year, iiNet Award - for [iCetana](https://icetana.com/)
-* 2010: Broadband Innovation Award, Tech23 - for [iCetana](https://icetana.com/)
+* 2011: WA Inventor of the Year, iiNet Award - for [icetana](https://icetana.com/)
+* 2010: Broadband Innovation Award, Tech23 - for [icetana](https://icetana.com/)
 * 2000: Best Paper Award, IEEE Pacific Rim Conference on Multimedia
