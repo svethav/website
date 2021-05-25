@@ -12,6 +12,7 @@ weight = 12
 
 +++
 
+* 2021 - : Fellow, [Australian Academy of Science (AAS)] (https://www.science.org.au/)
 * 2006 - : Fellow, [Australian Academy of Technological Sciences and Engineering (ATSE)](https://www.atse.org.au/)
 * 2004 - : Fellow, [International Association of Pattern Recognition (IAPR)](http://www.iapr.org/)
 * 1996 - 1997: Fellow, Institute of Advanced Study, Berlin
