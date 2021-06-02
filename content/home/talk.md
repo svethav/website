@@ -10,6 +10,8 @@ weight = 60
 
 # Selected Talks
 
+* Jun 2021: Delivering efficiencies in health care and manufacturing, Machine Learning and Artificial Intelligence Future Science Platform (MLAI FSP) CSIRO conference, Virtual via Zoom, Australia
+
 * Mar 2021: Future Trends in Artificial Intelligence, Pattern Recognition and Machine Learning, Information Technology Industry Forum, Virtual via Zoom, Australia
 
 * Feb 2020: Delivering Efficiencies through Machine Learning and AI, The Harvard Business Women’s Retreat, Geelong, Australia
