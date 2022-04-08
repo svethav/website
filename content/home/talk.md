@@ -10,9 +10,25 @@ weight = 60
 
 # Selected Talks
 
+* Dec 2021: Sample efficient AI with applications in health care and advanced manufacturing, International Conference on Data Mining (ICDM), Virtual Platform
+
+* Oct 2021: Artificial Intelligence: Future directions in technology and law, Australian Academy of Science and Australian Academy of Law Joint Symposium, Virtual
+
+* Sep 2021: Sample efficient AI with applications in health care and advanced manufacturing, International Conference on Biofabrication, Virtual
+
+* Sep 2021: Delivering efficiency with AI, Digital Enhanced Living Hub Mini-Symposium, Virtual via Zoom
+
+* Jun 2021: Will AI make us happier, The McWhirter Conference, Virtual via Zoom 
+
+* Jun 2021: SMEs: what are the AI opportunities?, AI and Cyber for SME Growth Symposium, Melbourne Via Streamyard 
+
 * Jun 2021: Delivering efficiencies in health care and manufacturing, Machine Learning and Artificial Intelligence Future Science Platform (MLAI FSP) CSIRO conference, Virtual via Zoom, Australia
 
 * Mar 2021: Future Trends in Artificial Intelligence, Pattern Recognition and Machine Learning, Information Technology Industry Forum, Virtual via Zoom, Australia
+
+* Oct 2020: Foundations of AI, Mathematical Foundations of AI - Vaibhav Summit, Virtual, India
+
+* Oct 2020: Delivering efficiencies in health care, Machine Learning in Medicine Webinar, Virtual via Zoom, Australia
 
 * Feb 2020: Delivering Efficiencies through Machine Learning and AI, The Harvard Business Women’s Retreat, Geelong, Australia
 
