@@ -10,6 +10,8 @@ weight = 60
 
 # Selected Talks
 
+* Oct 2022: AI in clinical applications, Australian Academy of Health and Medical Sciences 2022 Annual Scientific Meeting, Institute of Medical Research in Melbourne 
+
 * Dec 2021: Sample efficient AI with applications in health care and advanced manufacturing, International Conference on Data Mining (ICDM), Virtual Platform
 
 * Oct 2021: Artificial Intelligence: Future directions in technology and law, Australian Academy of Science and Australian Academy of Law Joint Symposium, Virtual
