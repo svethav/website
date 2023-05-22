@@ -10,6 +10,8 @@ weight = 60
 
 # Selected Talks
 
+* May 2023: AI as a Positive Disruptor, IWN (Intelligent Water Networks) Annual Members Conference, Deakin Downtown, Melbourne 
+
 * Oct 2022: AI in clinical applications, Australian Academy of Health and Medical Sciences 2022 Annual Scientific Meeting, Institute of Medical Research in Melbourne 
 
 * Dec 2021: Sample efficient AI with applications in health care and advanced manufacturing, International Conference on Data Mining (ICDM), Virtual Platform
