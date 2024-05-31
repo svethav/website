@@ -12,6 +12,8 @@ weight = 10
 
 +++
 
+* 2024: The Science Show’s Top 100 Australian Scientists, the ABC Australia
+* 2023: The 2023 Australasian AI Award for Distinguished Research Contributions
 * 2019: Ranked in the list of the top 15 women with the most AI publications on Arvix
 * 2018: [Best Paper Award] (https://link.springer.com/chapter/10.1007/978-3-319-93040-4_43), Pacific Asia Knowledge Discovery and Data Mining, Melbourne, Australia
 * 2018: [Victorian Honour Roll of Women](https://www.premier.vic.gov.au/twenty-victorian-women-awarded-prestigious-honour/)

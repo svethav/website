@@ -10,6 +10,14 @@ weight = 60
 
 # Selected Talks
 
+* Dec 2023: Sample efficient AI with applications in health and advanced manufacturing, Generative AI for Government Summit 2023, Canberra, Australia
+
+* Oct 2023: Sample efficient AI with applications in health care and advanced manufacturing, 3rd International Conference on AI-ML Systems, The Chancery Pavillion, Bengaluru, India
+
+* Sept 2023: Responsible AI, The Leaders in STEM Education Conference, The Gordon Technical School, Geelong
+
+* Jun 2023: Harnessing Generative AI for STEM Innovation , 2023 Quad Fellowship Summit, Melbourne Connect
+
 * May 2023: ChatGPT and generative AI, Parliamentary Friends of Science event, Australian Parliament House, Canberra
 
 * May 2023: AI as a Positive Disruptor, IWN (Intelligent Water Networks) Annual Members Conference, Deakin Downtown, Melbourne 
